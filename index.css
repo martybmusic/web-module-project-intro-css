@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+a:link {
+    text-decoration:none;
+    color:white;
+    font-weight: 300;
+}
+
+body {
+    font-family: 'roboto';
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'chelsea market';
+    font-size: 30px;
+}
+
+
+.navigate a {
+    display:inline-block;
+    margin: 5%;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+.plan {
+    box-sizing:border-box;
+   background-color: #FF764E;
+}
+
+.learn {
+    box-sizing:border-box;
+    background-color:#5ED3EB;
+}
+
+.involved {
+    box-sizing:border-box;
+    background-color:#FFCD69;
+}
+
+
+.centerpiece {
+    margin: 1%;
+    width: 100%;
+}
+
+.topheader {
+    display: inline-block;
+   
+}
+
+.topheader img {
+    width: 110px;
+    border-radius: 100%;
+}
+
+#blurbbox p {
+    font-size: 1em;
+}
+
+#filltext {
+    background-color: #DDB9A3;
+    color: white;
+    padding: 1%;
+    margin: 2%;
+}
+
+.boxtext {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.icons {
+    width: 60px;
+}
+
+footer img {
+    width: 100%;
+    max-height: 80px;;  
+}
+
+footer {
+    background-color: #F9E7DC;
+}
